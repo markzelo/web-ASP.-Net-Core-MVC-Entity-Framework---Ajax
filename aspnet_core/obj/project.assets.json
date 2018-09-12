@@ -12582,11 +12582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\markzelo11\\source\\repos\\aspnet_core\\aspnet_core\\aspnet_core.csproj",
+      "projectUniqueName": "C:\\Users\\markzelo11\\source\\repos\\aspnet_core_new\\aspnet_core\\aspnet_core.csproj",
       "projectName": "aspnet_core",
-      "projectPath": "C:\\Users\\markzelo11\\source\\repos\\aspnet_core\\aspnet_core\\aspnet_core.csproj",
+      "projectPath": "C:\\Users\\markzelo11\\source\\repos\\aspnet_core_new\\aspnet_core\\aspnet_core.csproj",
       "packagesPath": "C:\\Users\\markzelo11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\markzelo11\\source\\repos\\aspnet_core\\aspnet_core\\obj\\",
+      "outputPath": "C:\\Users\\markzelo11\\source\\repos\\aspnet_core_new\\aspnet_core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
