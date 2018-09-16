@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - SISTEMA UNIVERSIDAD</title>
+    <title>@ViewData["Title"] - SISTEMA UNIVERSIDAD st</title>
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -31,8 +31,15 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a asp-area="" asp-controller="Home" asp-action="Index">INICIO</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="About">ACERCA DE </a></li>
+                    <li><a asp-area="" asp-controller="Categorias" asp-action="">Categoria de cursos</a></li>
+                    <li><a asp-area="" asp-controller="Curso" asp-action="Contact">cursos</a></li>
+                    <li><a asp-area="" asp-controller="Alumnos" asp-action="Contact">alumnos</a></li>
+                    <li><a asp-area="" asp-controller="Profesores" asp-action="Contact">profesores</a></li>
+                    <li><a asp-area="" asp-controller="Materias" asp-action="Contact">materias</a></li>
+                    <li><a asp-area="" asp-controller="Matricula" asp-action="Contact">matricula</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="About">acerca de </a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="Contact">CONTACTO</a></li>
+
                 </ul>
             </div>
         </div>
